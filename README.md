@@ -1,4 +1,4 @@
-# landline-detection-app
+# laneline-detection-app
 
 A simple Android app to detect laneline on the road. 
 
